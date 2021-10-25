@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github-portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github-portfolio/static/js/main.975ff0b0.chunk.js",
-    "main.js.map": "/github-portfolio/static/js/main.975ff0b0.chunk.js.map",
-    "runtime-main.js": "/github-portfolio/static/js/runtime-main.84161174.js",
-    "runtime-main.js.map": "/github-portfolio/static/js/runtime-main.84161174.js.map",
-    "static/js/2.385169f5.chunk.js": "/github-portfolio/static/js/2.385169f5.chunk.js",
-    "static/js/2.385169f5.chunk.js.map": "/github-portfolio/static/js/2.385169f5.chunk.js.map",
-    "static/js/3.9d7a9d51.chunk.js": "/github-portfolio/static/js/3.9d7a9d51.chunk.js",
-    "static/js/3.9d7a9d51.chunk.js.map": "/github-portfolio/static/js/3.9d7a9d51.chunk.js.map",
+    "main.css": "/github-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/github-portfolio/static/js/main.a24f446f.chunk.js",
+    "main.js.map": "/github-portfolio/static/js/main.a24f446f.chunk.js.map",
+    "runtime-main.js": "/github-portfolio/static/js/runtime-main.db1fe3c8.js",
+    "runtime-main.js.map": "/github-portfolio/static/js/runtime-main.db1fe3c8.js.map",
+    "static/js/2.ff4e88ee.chunk.js": "/github-portfolio/static/js/2.ff4e88ee.chunk.js",
+    "static/js/2.ff4e88ee.chunk.js.map": "/github-portfolio/static/js/2.ff4e88ee.chunk.js.map",
+    "static/js/3.dcf9d5c9.chunk.js": "/github-portfolio/static/js/3.dcf9d5c9.chunk.js",
+    "static/js/3.dcf9d5c9.chunk.js.map": "/github-portfolio/static/js/3.dcf9d5c9.chunk.js.map",
     "index.html": "/github-portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/github-portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.385169f5.chunk.js.LICENSE.txt": "/github-portfolio/static/js/2.385169f5.chunk.js.LICENSE.txt",
+    "static/css/main.a617e044.chunk.css.map": "/github-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ff4e88ee.chunk.js.LICENSE.txt": "/github-portfolio/static/js/2.ff4e88ee.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/github-portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84161174.js",
-    "static/js/2.385169f5.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.975ff0b0.chunk.js"
+    "static/js/runtime-main.db1fe3c8.js",
+    "static/js/2.ff4e88ee.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a24f446f.chunk.js"
   ]
 }
